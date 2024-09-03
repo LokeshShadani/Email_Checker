@@ -31,7 +31,7 @@ To run this script, follow these steps:
 3. Open a terminal or command prompt and navigate to the directory containing the `.py` file.
 4. Run the script using the command:
    ```bash
-   python script_name.py
+   python email.validation.py
 Enter your email when prompted.
 Notes
 The script currently checks for common patterns in email addresses but may not catch all invalid cases.
